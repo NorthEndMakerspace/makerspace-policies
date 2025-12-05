@@ -1,0 +1,13 @@
+---
+layout: main
+---
+
+<p>
+    {% if page.discord_channel_name %}
+    <strong>Discord:</strong> <a href="{{ page.discord_channel_url }}" class="discord-channel" target="_blank"
+        rel="noopener noreferrer">{{ page.discord_channel_name }}</a>,
+    {% endif %}
+    <strong>Stewards:</strong> <span class="stewards-handle">{{ page.stewards }}</span>
+</p>
+
+{{ content }}
