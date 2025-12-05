@@ -13,9 +13,11 @@ Keyholders must be 18 or older. Guardians must chaperone minors at all times. Ho
 
 # Tool Time
 
-The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it\_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it is bypassed, record your time using the provided form. Tracking usage helps us schedule maintenance. Learn more about tool time here.
+The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it\_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it is bypassed, record your time using the provided form:
 
 [Log your tool time](https://docs.google.com/forms/d/e/1FAIpQLScYAjpR1PtrgCwTFzeEzlRUibw8yqn0aM1zNIIzgTkiSsiPvQ/viewform)
+
+Tracking usage helps us schedule maintenance. Learn more about tool time [here](https://nemakers.notion.site/Timed-Tool-Info-Status-1c3f8d7fdd8f4eec998d1ed3bd7d673d?pvs=143).
 
 # Pets
 
@@ -48,7 +50,7 @@ All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) bef
 
 # Key Fob Replacement
 
-You may purchase a replacement key fob for $5. Please post to the [#help-i-need-sombody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel on [our Discord Server](https://nems.link/discord) or email **membership@northendmakers.org** to let us know that you have lost your fob so it can be deactivated.
+You may purchase a replacement key fob for $5. Please post to the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel on our Discord Server ([nems.link/discord](https://nems.link/discord)) or email [membership@northendmakers.org](mailto:membership@northendmakers.org?subject=Key%20Fob%20Replacement) to let us know that you have lost your fob so it can be deactivated.
 
 # Voting Rights
 

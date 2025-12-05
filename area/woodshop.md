@@ -13,7 +13,7 @@ The woodshop is easily one of the biggest sources of dirt and noise in the Maker
 
 1. **The wood shop and its tools require certification to use**. Woodshop training is offered on a tiered, regular basis to the best of the volunteer stewards’ ability.
 2. **Dress appropriately for a woodshop**. Closed-toed shoes are required to enter. Do not wear loose clothing or dangling jewelry. Tie back long hair.
-3. **Always use dust collection** and turn on the wall mounted air filters when you enter the woodshop space. Instructions on how to activate these are provided during tool certifications.
+3. **Always use dust collection** when possible while using powered tools and turn on the wall mounted air filters when you enter the woodshop space. Instructions on how to activate these are provided during tool certifications.
 
 ## While using the woodshop:
 
