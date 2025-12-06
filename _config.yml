@@ -1,5 +1,4 @@
 title:  North End Makerspace Makerspace Policies (Draft)
-description: ""
 
 # theme: minima
 remote_theme: jekyll/minima # gh-pages bundled `minima` doesn't support dark mode
@@ -9,4 +8,7 @@ plugins:
 minima:
   skin: auto
   hide_site_feed_link: true
-
+  social_links:
+    - url: https://github.com/NorthEndMakerspace/makerspace-policies
+      title: NorthEndMakerspace/makerspace-policies @ GitHub
+      icon: github
