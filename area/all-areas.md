@@ -5,6 +5,8 @@ title: All areas
 stewards: "@steward (all areas)"
 ---
 
+These rules apply to all areas, including the common areas. Each specific area may have additional rules for safety and cleanliness.
+
 ## General rules:
 
 * Materials (scraps, screws, thread, 3D filament, electronic components, etc.) may only leave the makerspace when used in a project.
@@ -17,7 +19,7 @@ stewards: "@steward (all areas)"
     * Soldering iron
     * Ask a steward if you are unsure
 * Always wear appropriate PPE while working.
-* Loans/donations of tools/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.'
+* Loans/donations of tools/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.
 * If a tool is not working propery (inoperable, running unusually or unsafely, etc), inform a steward (in person, or on our [Discord server](https://nems.link/discord)) or make a post in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel.
 
 ## Before leaving, clean up for the next person:

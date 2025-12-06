@@ -7,10 +7,14 @@ discord_channel_url: https://discord.com/channels/775417143029661748/77729929476
 stewards: "@steward (3d filament)"
 ---
 
-Printing with filament requires the 3D filament printing certification.
+3D printing with extruded filament is generally safe but care should be taken to ensure your print succeeds and the printers and filament remains in good condition for the next person.
 
+## General rules
+
+- Printing with filament requires the 3D filament printing certification.
 - Ensure the first two layers adhere properly before leaving the makerspace.
 
+TODO
 - Which filaments are allowed?
 - Does MMU require extra training?
 - Can folks use their own filament?

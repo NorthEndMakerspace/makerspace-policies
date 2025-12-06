@@ -8,6 +8,7 @@ stewards: "@steward (fiber arts)"
 ---
 
 - Discard scraps smaller than 1 sq ft
+- Scissor must only be used on fabric or thread
+
 - TODO does fiber arts accept donations?
 - TODO leave spools/bobbins in machines? How about the serger?
-- Scissor must only be used on fabric or thread
