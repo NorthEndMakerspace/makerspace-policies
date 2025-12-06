@@ -67,7 +67,7 @@ Individual rooms within the space have additional policies above the global poli
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for page in sorted_pages -%}
 {% if page.dir == "/area/" -%}
-- [{{ page.title }}]({{ page.url }})
+- [{{ page.title }}]({{ page.url | relative_url }})
 {% endif -%}
 {% endfor %}
 
