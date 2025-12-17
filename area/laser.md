@@ -15,7 +15,6 @@ Cutting with either laser cutter requires the laser cutter certification.
 - what can and can’t be cut
 
 - TODO
-  -
   - what to do when the pin (?) is out of alignment
   - How to run air filter?
   - When and how to store scrap?
