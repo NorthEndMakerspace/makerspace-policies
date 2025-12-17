@@ -14,6 +14,8 @@ The CNC requires certification to use. The async learning module ([CNC 101 - Lea
 1. Press the “Stop” button on the spindle paddle switch.
    * **Badge in and test the spindle before setting up to check your certification is valid**.
 1. Check that there is nothing on the CNC or gantry rails that could interfere with the motion of the CNC gantry or spindle (e.g. snagged wires, material in the way, etc).
+1. Press the "Start" button on the CNC paddle switch.
+1. Log in to the laptop and launch [gSender](https://resources.sienci.com/view/gs-using-gsender/).
 1. Home the machine.
    * If the gantry or spindle was moved while the machine was off, you must re-home the machine.
    * If you crash the spindle, you must re-home the machine (you can re-home just Z if crashed only in Z).
@@ -41,10 +43,11 @@ The CNC requires certification to use. The async learning module ([CNC 101 - Lea
 
 ## Before leaving
 
-1. Press the “Stop” button on the spindle paddle switch, even if it appears off. Press the button on the badger to badge out.
 1. Move the CNC to the home position.
 1. Use the dust collector hose to clean the machine bed, rails, and area around the CNC.
 1. Sweep/vacuum any chips off the floor.
+1. Press the “Stop” button on the spindle paddle switch, even if it appears off. Press the button on the badger to badge out.
+1. Press the "Stop" button on the CNC paddle switch. The light under the gantry should be off.
 1. Close the laptop lid.
 
 ## Allowed materials:
