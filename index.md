@@ -25,15 +25,12 @@ For safety reasons, only service animals are permitted in our space. Areas such 
 
 ## Member storage
 
-* Use member cubbies to store your tools, consumables, etc. Do not store food outside of the kitchen.
-* Label all material and projects with **your name**, **your contact informatio**n, and **today’s date**.
+* Do not leave your tools, consumables, etc. in the common areas of the makerspace.
+  * Members at the "Premium" level or above can reserve a storage cubby on a first come, first served basis— subject to availability. Do not store food in your storage cubby.
+* Label all material and projects with **your name**, **your contact information** (phone number or Discord handle), and **today’s date**.
   * If possible, use the project storage shelves.
   * If you must leave material outside of project storage, ensure it is out of the way and does not impede usage of any tool or work space.
 * Unlabelled material in the scrap bin or labelled material/projects older than 1 week are free for any member to use.
-
-TODO cubby/project storage rules, size, availablility, etc
-
-TODO what to do if project storage is full
 
 ## Food/Drink
 
@@ -41,12 +38,14 @@ All food stored in the refrigerator or cabinets must be labeled with your name, 
 
 ## Guest Policy
 
-All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) before doing anything at the space. Your guests are your responsibility – as a member, *you are responsible* if they:
+All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) before doing anything at the space. Your guests are your responsibility – as a member, *you are responsible* that they:
 
-* Make a mess and don’t clean it up
-* Use tools they are not trained to use.
-* Behave disrespectfully to others
-* Do not follow safety rules.
+* Act in accordance with our makerspace policies (below).
+* Follow all safety rules.
+* Only use tools they are trained to use.
+* Clean it up after themselves.
+* Act in accordance with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
+* Behave respectfully to others.
 
 ## Key Fob Replacement
 
