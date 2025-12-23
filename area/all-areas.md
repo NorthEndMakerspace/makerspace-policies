@@ -28,4 +28,10 @@ These rules apply to all areas, including the common areas. Each specific area m
 * Clear your workspace of any projects, tools, and trash
 * Sweep/vacuum the floor when you have left debris such as sawdust or fabric scraps on the floor.
 * Empty trash bins in the building trash room if more than half full.
-
+* **Ensure any windows or outside doors you've opened are closed and locked.**
+  * Double-check that the windows are latched and do not open.
+  * If you are the last one out of the space, check:
+    * Both windows in the woodshop.
+    * The window in the main common space.
+    * The patio door in the main common space.
+    * The back patio door in the Wazer room.
