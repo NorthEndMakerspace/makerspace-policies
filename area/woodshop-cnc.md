@@ -53,6 +53,9 @@ The basic woodshop certification is also required and all [woodshop policies]({%
 1. Press the "Stop" button on the CNC paddle switch. The light under the gantry should be off.
 1. Ensure that you have all your end mills and materials.
 1. Close the laptop lid.
+1. Don't forget your USB drive!
+
+The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## Allowed materials:
 

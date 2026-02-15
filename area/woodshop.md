@@ -33,6 +33,8 @@ The woodshop is easily one of the biggest sources of dirt and noise in the Maker
 6. **Sweep and/or vacuum the entire floor** clear of sawdust and trash.
 7. **Close and lock all windows**, if you are the last one out. Note that someone before you may have opened them.
 
+The rules in [All areas]({% link area/all-areas.md %}) apply.
+
 ## Allowed materials:
 
 - Wood \- All tools

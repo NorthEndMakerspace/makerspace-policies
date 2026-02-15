@@ -21,3 +21,7 @@ stewards: "@steward (fiber arts)"
 ## Sergers
 
 - When cleaning up, leave the serger threaded and ready for use.
+
+## Before leaving
+
+Remember to clean up any fabric or thread scapes, put away clips, pins, bobbins, etc. The rules in [All areas]({% link area/all-areas.md %}) apply.
