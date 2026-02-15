@@ -13,4 +13,3 @@ Cutting with either Wazer cutter requires the Wazer cutter certification.
 - TODO what materials can you cut/not cut
 - TODO what to do beforehand
 - TODO how to clean up afterwards
-

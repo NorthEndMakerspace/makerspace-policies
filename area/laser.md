@@ -7,7 +7,7 @@ discord_channel_url: https://discord.com/channels/775417143029661748/77921786971
 stewards: "@steward (laser)"
 ---
 
-Cutting with either laser cutter requires the laser cutter certification.
+Cutting with either laser cutter requires the laser cutter certification. The async learning module ([Laser 101 - Learn @ NEM](https://learn.northendmakers.org/course/view.php?id=2)) must be completed before certification.
 
 ## Allowed materials
 

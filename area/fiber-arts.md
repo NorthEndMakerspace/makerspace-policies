@@ -9,9 +9,8 @@ stewards: "@steward (fiber arts)"
 
 ## General rules
 
-- Discard scraps smaller than 1 sq ft
-- Scissor must only be used on fabric or thread
-- TODO does fiber arts accept donations?
+- Discard scraps smaller than 1 sq ft.
+- Fabric scissors must only be used on fabric or thread. Do not cut paper or any other materials with them.
 
 ## Sewing machines
 

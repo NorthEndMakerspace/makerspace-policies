@@ -8,5 +8,5 @@ stewards: "@steward (electronics)"
 ---
 
 - **Always use eye protection while working.** Personal corrective eyewear is not considered eye protection and does not fulfill this requirement, unless it is certified under ANSI Z87.1. We provide eye protection that members can use.
-- **Always use the fume extractor when soldering.**
-- TODO is there any consideration
+- **Always use the fume extractor while soldering.**
+- Do not leave a soldering iron or power supply running unattended.

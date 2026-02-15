@@ -19,18 +19,18 @@ The basic woodshop certification is also required and all [woodshop policies]({%
 1. Press the "Start" button on the CNC paddle switch.
 1. Log in to the laptop and launch [gSender](https://resources.sienci.com/view/gs-using-gsender/).
 1. Home the machine.
-   * If the gantry or spindle was moved while the machine was off, you must re-home the machine.
-   * If you crash the spindle, you must re-home the machine (you can re-home just Z if crashed only in Z).
+   - If the gantry or spindle was moved while the machine was off, you must re-home the machine.
+   - If you crash the spindle, you must re-home the machine (you can re-home just Z if crashed only in Z).
 1. Place your stock on the spoil board and clamp it down. It should not move if you try to push or pull it with your body weight.
 1. Ensure the correct bit for your cut is inserted and secure.
-   * With the Musclechuck, this means tightening the bolt with the allen key until it is just barely snug, then tighten another quarter turn. Note that overtightening risks damage to the chuck.
+   - With the Musclechuck, this means tightening the bolt with the allen key until it is just barely snug, then tighten another quarter turn. Note that overtightening risks damage to the chuck.
 1. Zero the machine relative to your stock based on the origin you specified during tool path generation. Be mindful of whether your Z origin is at the top or bottom of your stock.
 1. Use the “outline” feature of gSender to ensure the cutter and router will not collide with any clamps (or manually jog the machine around).
-   * It’s worth raising the endmill above any clamps or fixtures initially to avoid accidentally crashing if adjustments are needed.
-   * Be aware the “outline” feature attempts to calculate a concave hull, but this sometimes yields an outline that exceeds the actual toolpath.
+   - It’s worth raising the endmill above any clamps or fixtures initially to avoid accidentally crashing if adjustments are needed.
+   - Be aware the “outline” feature attempts to calculate a concave hull, but this sometimes yields an outline that exceeds the actual toolpath.
 1. Jog the machine above your stock and within the tool path outline. (This just helps avoid crashing when starting the job)
 1. Check the router RPM setting matches what is expected in your design.
-   * 1-6 is 8000-24000 RPM, with 3.5 being around 16000RPM
+   - 1-6 is 8000-24000 RPM, with 3.5 being around 16000RPM
 1. Attach the dust boot and turn on the dust collector.
 1. Turn on the spindle.
 1. Start your job.
@@ -56,17 +56,17 @@ The basic woodshop certification is also required and all [woodshop policies]({%
 
 ## Allowed materials:
 
-* Hard wood and soft wood, except excessively sappy/green wood
-* HDPE
-* Aluminum and brass, with special training
+- Hard wood and soft wood, except excessively sappy/green wood
+- HDPE
+- Aluminum and brass, with special training
 
 ## Other
 
-* You must provide your own end mills and cutters.
-* Do not remove the spoil board.
-* Do not remove the Musclechuck. It is clocked to the spindle in a specific position to minimize runout.
-* Do not change settings on the machine or in the sender.
-* **VCarve file version compatibility**: if your local version of VCarve is newer than the CNC laptop, you may need to update the CNC laptop version.
-* **Fusion360 post process settings**: Post process using the "Grbl / grbl" post. In "Safe retracts and home positioning" (under "Post properties"), set "Safe retracts" to "Clearance Height".
-   * After the job finishes, "Clearance Height" will retract the spindle to the clearance height of the last cut.
-   * "G28" and "G53" will attempt to move the spindle to the G28 or G53 origin after the last cut, which may result in unexpected movement that could collide with your stock or clamps.
+- You must provide your own end mills and cutters.
+- Do not remove the spoil board.
+- Do not remove the Musclechuck. It is clocked to the spindle in a specific position to minimize runout.
+- Do not change settings on the machine or in the sender.
+- **VCarve file version compatibility**: if your local version of VCarve is newer than the CNC laptop, you may need to update the CNC laptop version.
+- **Fusion360 post process settings**: Post process using the "Grbl / grbl" post. In "Safe retracts and home positioning" (under "Post properties"), set "Safe retracts" to "Clearance Height".
+  - After the job finishes, "Clearance Height" will retract the spindle to the clearance height of the last cut.
+  - "G28" and "G53" will attempt to move the spindle to the G28 or G53 origin after the last cut, which may result in unexpected movement that could collide with your stock or clamps.

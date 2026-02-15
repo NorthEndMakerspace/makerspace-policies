@@ -13,7 +13,7 @@ Keyholders must be 18 or older. Guardians must chaperone minors at all times. Ho
 
 ## Tool Time
 
-The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it\_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it is bypassed, record your time using the provided form:
+The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it is bypassed, record your time using the provided form:
 
 [Log your tool time](https://docs.google.com/forms/d/e/1FAIpQLScYAjpR1PtrgCwTFzeEzlRUibw8yqn0aM1zNIIzgTkiSsiPvQ/viewform)
 
@@ -25,9 +25,9 @@ For safety reasons, only service animals are permitted in our space. Areas such 
 
 ## Member storage
 
-* Do not leave your tools, consumables, etc. in the common areas of the makerspace.
-* There are a limited number of storage cubbies for members to store belongings.
-* There are a limited number of project shelves and tall storage cubbies available for short-term use.
+- Do not leave your tools, consumables, etc. in the common areas of the makerspace.
+- There are a limited number of storage cubbies for members to store belongings.
+- There are a limited number of project shelves and tall storage cubbies available for short-term use.
 
 For more information, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143).
 
@@ -37,13 +37,13 @@ All food stored in the refrigerator or cabinets must be labeled with your name, 
 
 ## Guest Policy
 
-All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) before doing anything at the space. Your guests are your responsibility – as a member, *you are responsible* that they:
+All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) before doing anything at the space. Your guests are your responsibility – as a member, _you are responsible_ that they:
 
-* Act in accordance with all makerspace policies.
-* Follow all safety rules.
-* Only use tools they are trained to use.
-* Clean it up after themselves.
-* Behave respectfully to others and act in accordance with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
+- Act in accordance with all makerspace policies.
+- Follow all safety rules.
+- Only use tools they are trained to use.
+- Clean it up after themselves.
+- Behave respectfully to others and act in accordance with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
 
 ## Key Fob Replacement
 
@@ -61,12 +61,16 @@ We are 100% volunteer-run. All members are part of the North End Makers communit
 
 Individual rooms within the space have additional policies above the global policies outlined above. Please reach out to the stewards on Discord if you have any questions or concerns.
 
+<!-- prettier-ignore-start -->
+
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for page in sorted_pages -%}
 {% if page.dir == "/area/" -%}
+
 - [{{ page.title }}]({{ page.url | relative_url }})
 {% endif -%}
 {% endfor %}
+<!-- prettier-ignore-end -->
 
 Repeated failure to adhere to any of the policies outlined under this policy document may result in the revocation of membership privileges.
 

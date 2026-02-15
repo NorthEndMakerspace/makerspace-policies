@@ -14,11 +14,11 @@ stewards: "@steward (3d filament)"
 - Printing with filament requires the 3D filament printing certification.
 - Ensure the first two layers adhere properly before leaving the makerspace.
 
-TODO
-- Which filaments are allowed?
-- Does MMU require extra training?
-- Can folks use their own filament?
-- Can folks use the dryer on their own filament?
+- TODO:
+  - Which filaments are allowed?
+  - Does MMU require extra training?
+  - Can folks use their own filament?
+  - Can folks use the dryer on their own filament?
 
 ## FAQ
 

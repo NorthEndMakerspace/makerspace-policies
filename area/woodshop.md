@@ -17,8 +17,8 @@ The woodshop is easily one of the biggest sources of dirt and noise in the Maker
 
 ## While using the woodshop:
 
-1. **Wear safety-rated eye protection (ANSI Z87.1)** if *any* tool in the woodshop is in use. Personal corrective eyewear is not considered eye protection and does not fulfill this requirement, unless it is certified under ANSI Z87.1. We provide eye protection that members can use.
-2. **Wear ear protection of at least 20dB NRR (ANSI S12.6)** if *any* tool that requires ear protection (or is louder than 85dB) is in use. Use the free [NIOSH Sound Level Meter App](https://www.cdc.gov/niosh/noise/about/app.html) if you are unsure of the volume of a particular piece of equipment. We provide ear protection that members can use.
+1. **Wear safety-rated eye protection (ANSI Z87.1)** if _any_ tool in the woodshop is in use. Personal corrective eyewear is not considered eye protection and does not fulfill this requirement, unless it is certified under ANSI Z87.1. We provide eye protection that members can use.
+2. **Wear ear protection of at least 20dB NRR (ANSI S12.6)** if _any_ tool that requires ear protection (or is louder than 85dB) is in use. Use the free [NIOSH Sound Level Meter App](https://www.cdc.gov/niosh/noise/about/app.html) if you are unsure of the volume of a particular piece of equipment. We provide ear protection that members can use.
 3. **Keep all doors closed** when any tools are in use. This is to mitigate noise and dirt propagation outside of the woodshop.
 4. **Empty full dust collection bags** into the trash dumpster before continuing use. If they are more than 60% filled, they are considered “full”.
 5. **Consider wearing a face mask** if you are creating a lot of dust. Your lungs will thank you.
@@ -35,14 +35,13 @@ The woodshop is easily one of the biggest sources of dirt and noise in the Maker
 
 ## Allowed materials:
 
-* Wood \- All tools
-* Soft metals \- drill press w/ lubricant, files
-* Plastics \- Drill press, band saw
+- Wood \- All tools
+- Soft metals \- drill press w/ lubricant, files
+- Plastics \- Drill press, band saw
 
 If you have offcuts that you would like to donate to the scrap bin please use the gauge graphic next to the scrap bin as a guideline as to whether the piece is large enough to qualify for the scrap bin. If the piece is smaller than the gauge graphic please place it in the trash bin instead.
 
 ## If you see something, say something:
 
-* If the woodshop is not left in a clean state, please let us know.
-* Members should feel empowered to remind each other about the requirements around PPE when co-working in the woodshop. These are required, not optional, when certain pieces of equipment are in use.
-
+- If the woodshop is not left in a clean state, please let us know.
+- Members should feel empowered to remind each other about the requirements around PPE when co-working in the woodshop. These are required, not optional, when certain pieces of equipment are in use.
