@@ -26,11 +26,10 @@ For safety reasons, only service animals are permitted in our space. Areas such 
 ## Member storage
 
 * Do not leave your tools, consumables, etc. in the common areas of the makerspace.
-  * Members at the "Premium" level or above can reserve a storage cubby on a first come, first served basis— subject to availability. Do not store food in your storage cubby.
-* Label all material and projects with **your name**, **your contact information** (phone number or Discord handle), and **today’s date**.
-  * If possible, use the project storage shelves.
-  * If you must leave material outside of project storage, ensure it is out of the way and does not impede usage of any tool or work space.
-* Unlabelled material in the scrap bin or labelled material/projects older than 1 week are free for any member to use.
+* There are a limited number of storage cubbies for members to store belongings.
+* There are a limited number of project shelves and tall storage cubbies available for short-term use.
+
+For more information, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143).
 
 ## Food/Drink
 
@@ -40,12 +39,11 @@ All food stored in the refrigerator or cabinets must be labeled with your name, 
 
 All guests must sign a waiver ([nems.link/waiver](https://nems.link/waiver)) before doing anything at the space. Your guests are your responsibility – as a member, *you are responsible* that they:
 
-* Act in accordance with our makerspace policies (below).
+* Act in accordance with all makerspace policies.
 * Follow all safety rules.
 * Only use tools they are trained to use.
 * Clean it up after themselves.
-* Act in accordance with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
-* Behave respectfully to others.
+* Behave respectfully to others and act in accordance with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
 
 ## Key Fob Replacement
 
