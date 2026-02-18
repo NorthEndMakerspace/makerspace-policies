@@ -35,3 +35,16 @@ These rules apply to all areas, including the common areas. Each specific area m
     - The window in the main common space.
     - The patio door in the main common space.
     - The back patio door in the Wazer room.
+
+## Disallowed projects
+
+We do not allow projects or creations that contain components which are: illegal, unsafe, or inconsistent with our [community standards and code of conduct](https://northendmakers.org/conduct.php).
+
+This includes things such as:
+
+- Weapons or weapon components
+- Counterfeit goods
+- Unsafe or high risk projects
+- Usage of materials that release excessive fumes or particulates
+- Modifications to tools or machines without authorization
+- Items promoting hate, harassment, or violence
