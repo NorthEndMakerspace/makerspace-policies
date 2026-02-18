@@ -9,10 +9,35 @@ stewards: "@steward (laser)"
 
 Cutting with either laser cutter requires the laser cutter certification. The async learning module ([Laser 101 - Learn @ NEM](https://learn.northendmakers.org/course/view.php?id=2)) must be completed before certification.
 
-## Allowed materials
+## Disallowed materials
 
-- MDF? Acrylic?
-- what can and can’t be cut
+**Never** cut any of the following materials on the laser, as they pose a safety risk when cut.
+
+- **PVC** (Poly Vinyl Chloride, e.g. vinyl/pleather/artificial leather): emits pure chlorine gas
+- **Polycarbonate/Lexan** thicker than 1mm: cuts poorly, discolors, catches fire
+- **ABS**: emits cyanide gas
+- **HDPE** (e.g. milk bottle plastic): catches fire, melts
+- **Polystyrene foam**: #1 cause of laser fires!
+- **Polypropylene foam**: catches fire
+- **Fiberglass**: emits noxious fumes
+- **Coated carbon fiber**: emits noxious fumes
+
+If you are not sure what your material is, **do not cut it on the laser**.
+
+## While using
+
+- You must be 18 or older to use the lasers.
+- Children must be supervised and not allowed to peek into the laser at edges while the laser is running.
+- **Always be within arm’s reach of the E-Stop buttons.**
+
+### In case of fire
+
+If the air nozzle does not put out the fire immediately:
+
+1. Stop the laser with the E-Stop.
+1. Push the carriage out of the way.
+1. Smother the fire with fire blanket.
+1. **As a last resort**, use fire extinguisher.
 
 - TODO
   - what to do when the pin (?) is out of alignment
