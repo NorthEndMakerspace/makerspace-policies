@@ -29,7 +29,7 @@ For safety reasons, only service animals are permitted in our space. Areas such 
 - There are a limited number of storage cubbies for members to store belongings.
 - There are a limited number of project shelves and tall storage cubbies available for short-term use.
 
-For more information, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143).
+For more information, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143). Do not store your projects in common spaces without steward approval.
 
 ## Food/Drink
 

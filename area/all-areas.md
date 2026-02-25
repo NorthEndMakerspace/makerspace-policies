@@ -22,6 +22,17 @@ These rules apply to all areas, including the common areas. Each specific area m
 - Loans and donations of tools/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.
 - If a tool is not working propery (inoperable, running unusually or unsafely, etc), inform a steward (in person, or on our [Discord server](https://nems.link/discord)) or make a post in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel.
 
+### In case of emergency
+
+**Call 911** if an emergency occurs, such as a medical emergency, controlled fire, etc.
+
+Our address is:
+
+> 12317 15th Ave NE #103  
+> Seattle, WA 98125
+
+Afterwards, follow up with a message to <span class="stewards-handle">@facilities</span> to report the incident.
+
 ## Before leaving, clean up for the next person:
 
 - Return tools and unused consumables back to where your found them

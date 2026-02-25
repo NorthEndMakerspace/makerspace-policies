@@ -9,7 +9,21 @@ stewards: "@steward (laser)"
 
 Cutting with either laser cutter requires the laser cutter certification. The async learning module ([Laser 101 - Learn @ NEM](https://learn.northendmakers.org/course/view.php?id=2)) must be completed before certification.
 
-## Disallowed materials
+## Allowed materials
+
+If you are not sure what your material is, **do not cut it on the laser**.
+
+- **Wood from known providers**: Baltic birch ply, bamboo, MDF, hardwoods (maple, cherry, walnut, poplar, etc.), softwoods (pine, basswood, balsa).
+- **Paper products**: copy paper, card stock, chipboard, cardboard, corrugated cardboard, mat board.
+- **Acrylic (PMMA)**: cast or extruded sheets (often sold as “acrylic,” “Plexiglas,” “Perspex,” “Lucite”).
+- **Specific Plastics**: PET / PETG, polyester (Mylar), polyimide (Kapton).
+- **Fabrics and textiles**: cotton, wool, felt (wool or approved synthetic), silk, linen, some nylons, and polyesters.
+- **Leather**: vegetable‑tanned natural leather (not chrome‑tanned).
+- **Rubbers**: laser‑safe stamp rubber and some natural rubbers (often labeled “laserable rubber”).
+- **Foams (non‑chlorinated)**: EVA, some PE foams, “laser‑safe” craft foams, foam core board (paper faces, non‑PVC core).
+- **Glass**: engrave/etch on the surface of many types of glass (e.g., drinkware, flat glass sheets), producing a frosted mark.
+
+### Disallowed materials
 
 **Never** cut any of the following materials on the laser, as they pose a safety risk when cut.
 
@@ -22,13 +36,12 @@ Cutting with either laser cutter requires the laser cutter certification. The as
 - **Fiberglass**: emits noxious fumes
 - **Coated carbon fiber**: emits noxious fumes
 
-If you are not sure what your material is, **do not cut it on the laser**.
-
-## While using
+## While cutting
 
 - You must be 18 or older to use the lasers.
 - Children must be supervised and not allowed to peek into the laser at edges while the laser is running.
 - **Always be within arm’s reach of the E-Stop buttons.**
+- If your job isn't being sent to the Mira9, there might be another instance of Lightburn running on the PC.
 
 ### In case of fire
 
@@ -38,11 +51,16 @@ If the air nozzle does not put out the fire immediately:
 1. Push the carriage out of the way.
 1. Smother the fire with fire blanket.
 1. **As a last resort**, use fire extinguisher.
+1. Contact <span class="stewards-handle">{{ page.stewards }}</span> in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel to report the fire.
 
-- TODO
-  - what to do when the pin (?) is out of alignment
-  - How to run air filter?
-  - When and how to store scrap?
+### In case of laser head crash
+
+If the head crashes and you've had to hit the E-stop, contact <span class="stewards-handle">{{ page.stewards }}</span> in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel. They or one of the trained volunteers should be able to help you.
+
+## What do I do with scrap material?
+
+- Small acrylic & wood scrap (larger than 4"x4") can be placed in the drawers.
+- Large scrap can be placed in the file drawers or alongside the cabinets in the designated areas.
 
 ## Before leaving
 
