@@ -24,7 +24,7 @@ These rules apply to all areas, including the common areas. Each specific area m
 
 ### In case of emergency
 
-**Call 911** if an emergency occurs, such as a medical emergency, controlled fire, etc.
+**Call 911** if an emergency occurs, such as a medical emergency, uncontrolled fire, etc.
 
 Our address is:
 
