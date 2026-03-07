@@ -18,6 +18,7 @@ These rules apply to all areas, including the common areas. Each specific area m
     - Dremel
     - Soldering iron
     - Ask a steward if you are unsure. Most tools are permitted except those that inherently present a high risk of severe injury, regardless of the user's skill or confidence.
+- Outside materials/consumables may be used in the space. If the kind of material is not already used in the space, it must be approved by a steward.
 - Loans and donations of tools and materials/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.
 - If a tool is not working propery (inoperable, running unusually or unsafely, etc), inform a steward (in person, or on our [Discord server](https://nems.link/discord)) or make a post in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel.
 
@@ -63,6 +64,7 @@ This includes things such as:
 - Weapons or weapon components
 - Counterfeit goods
 - Unsafe or high risk projects
-- Usage of materials that release excessive fumes or particulates
+- Usage of materials that do not have an approve safety data sheet (SDS), such as those that release excessive fumes or particulates
+- Usage of the space for commercial mass production
 - Modifications to tools or machines without authorization
 - Items promoting hate, harassment, or violence
