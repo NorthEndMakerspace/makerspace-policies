@@ -9,17 +9,16 @@ These rules apply to all areas, including the common areas. Each specific area m
 
 ## General rules:
 
-- Materials (scraps, screws, thread, 3D filament, electronic components, etc.) may only leave the makerspace when used in a project.
-- Consumables (sandpaper, tape, solder, etc) must be used at the makerspace.
+- Always wear appropriate PPE while working.
+- Materials/consumables must be used at the makerspace and may only leave the makerspace when used in a project. This includes scraps, screws, thread, 3D filament, electronic components, sandpaper, tape, solder, glue, etc.
 - Tools must stay in the makerspace.
-  - If you need a tool for a project off-site, please consider the NE Seattle Tool Library or Shoreline Tool Library as a resource for borrowing equipment, [Seattle REconomy](https://seattlereconomy.org/).
+  - If you need a tool for a project off-site, please consider the [NE Seattle Tool Library](https://seattlereconomy.org/NESTL/) or [Shoreline Tool Library](https://seattlereconomy.org/STL/) as a resource for borrowing equipment.
   - You may bring and use your own tools if they are on the approved list:
     - Hand tools
     - Dremel
     - Soldering iron
-    - Ask a steward if you are unsure
-- Always wear appropriate PPE while working.
-- Loans and donations of tools/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.
+    - Ask a steward if you are unsure. Most tools are permitted except those that inherently present a high risk of severe injury, regardless of the user's skill or confidence.
+- Loans and donations of tools and materials/consumables must have steward approval. Leaving a tool in a common space is considered a loan and requires steward approval.
 - If a tool is not working propery (inoperable, running unusually or unsafely, etc), inform a steward (in person, or on our [Discord server](https://nems.link/discord)) or make a post in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel.
 
 ### In case of emergency
@@ -28,24 +27,32 @@ These rules apply to all areas, including the common areas. Each specific area m
 
 Our address is:
 
+> North End Makerspace  
 > 12317 15th Ave NE #103  
 > Seattle, WA 98125
 
-Afterwards, follow up with a message to <span class="stewards-handle">@facilities</span> to report the incident.
+Afterwards, report the incident with a message to <span class="stewards-handle">@facilities</span>.
 
-## Before leaving, clean up for the next person:
+## Before leaving:
 
-- Return tools and unused consumables back to where your found them
-- Clear your workspace of any projects, tools, and trash
-- Sweep/vacuum the floor when you have left debris such as sawdust or fabric scraps on the floor.
-- Empty trash bins in the building trash room if more than half full.
-- **Ensure any windows or outside doors you've opened are closed and locked.**
-  - Double-check that the windows are latched and do not open.
-  - If you are the last one out of the space, check:
-    - Both windows in the woodshop.
-    - The window in the main common space.
-    - The patio door in the main common space.
-    - The back patio door in the Wazer room.
+After using the space, help keep it clean and safe for the next person.
+
+Before leaving, follow this checklist:
+
+- Tidy up:
+  - [ ] **Return tools, unused consumables, and furniture** back to where your found them.
+  - [ ] **Clean your workspace** of any projects, tools, and trash.
+  - [ ] **Sweep/vacuum the floor around your workspace** for things such as sawdust or fabric scraps.
+  - [ ] **Empty trash bins** in [the building trash room](https://nemakers.notion.site/Handy-Guide-to-Taking-Out-the-Trash-d09958dce35f4007af50ac7bb3cbb4d4?pvs=143), if more than half full.
+  - [ ] **Take your stuff with you**. If you need to leave your project in the space, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143).
+- Check the building is secure:
+  - [ ] **Close any window** you opened and check that it is latched and does not open.
+- If you are the last one person in the space:
+  - [ ] **Close and latch _both_ windows** in the woodshop.
+  - [ ] **Close and latch the window** in the main common space.
+  - [ ] **Close and lock the patio door** in the main common space.
+  - [ ] **Close and lock the back patio door** in the Wazer room.
+  - [ ] **Turn off all the lights**.
 
 ## Disallowed projects
 
