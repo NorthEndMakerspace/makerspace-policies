@@ -11,6 +11,8 @@ The CNC requires certification to use. The async learning module ([CNC 101 - Lea
 
 The basic woodshop certification is also required and all [woodshop policies]({% link area/woodshop.md %}) apply while using the CNC.
 
+The rules in [All areas]({% link area/all-areas.md %}) apply.
+
 ## Before cutting
 
 1. Press the “Stop” button on the spindle paddle switch, even if it appears off.
@@ -37,10 +39,8 @@ The basic woodshop certification is also required and all [woodshop policies]({%
 
 ## While cutting
 
-1. Keep hands and feet clear of the machine, especially the cutting area, gantry, and rails.
-1. Do not lean on or over the machine bed or gantry rails.
 1. **Always be within arm’s reach of the E-Stop buttons.**
-1. If anything goes wrong press the E-Stop for both the machine and the spindle. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
+1. If anything goes wrong **press the E-Stop for both the machine and the spindle**. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
 1. Turn off the spindle when your job is complete.
 
 ## Before leaving
@@ -55,7 +55,11 @@ The basic woodshop certification is also required and all [woodshop policies]({%
 1. Close the laptop lid.
 1. Don't forget your USB drive!
 
-The rules in [All areas]({% link area/all-areas.md %}) apply.
+## Safety
+
+- Follow the [wooodshop safety guidelines]({% link area/woodshop.md %}).
+- Keep hands and feet clear of the machine, especially the cutting area, gantry, and rails.
+- Do not lean on or over the machine bed or gantry rails.
 
 ## Allowed materials:
 
