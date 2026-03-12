@@ -84,10 +84,12 @@ We do not allow projects or creations that contain components which are: illegal
 
 This includes things such as:
 
-- Weapons or weapon components
+- Weapons, weapon components, weapon paraphernalia, or ammunition
 - Counterfeit goods
 - Unsafe or high risk projects
-- Usage of materials that do not have an approve safety data sheet (SDS), such as those that release excessive fumes or particulates
+- Usage of materials that do not have an approved safety data sheet (SDS), such as those that release excessive fumes or particulates
 - Usage of the space for commercial mass production
 - Modifications to tools or machines without authorization
 - Items promoting hate, harassment, or violence
+
+Items that fall into the category of disallowed projects are therefore forbidden in the space.

@@ -15,8 +15,9 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## General rules
 
-- Discard scraps smaller than 1 sq ft.
+- Always use the correct type of bobbin for a given machine. If you unsure, consult the signage on the wall or ask <span class="stewards-handle">{{ page.stewards }}</span> on Discord.
 - Fabric scissors must only be used on fabric or thread. Do not cut paper or any other materials with them.
+- Discard scraps smaller than 1 sq ft.
 
 ## Safety
 

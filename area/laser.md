@@ -56,7 +56,7 @@ If the air nozzle does not put out the fire immediately:
 
 ### In case of laser head crash
 
-If the head crashes and you've had to hit the E-stop, contact <span class="stewards-handle">{{ page.stewards }}</span> in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel. They or one of the trained volunteers should be able to help you.
+If the head crashes and you’ve had to hit the E-stop, contact <span class="stewards-handle">{{ page.stewards }}</span> in the [#help-i-need-somebody](https://discord.com/channels/775417143029661748/1149882874003202048){: .discord-channel} channel. They, or one of the trained volunteers, should be able to replace the autofocus pin and reset the machine.
 
 ## What do I do with scrap material?
 
