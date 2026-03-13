@@ -7,14 +7,15 @@ discord_channel_url: https://discord.com/channels/775417143029661748/77729929476
 stewards: "@steward (3d resin)"
 ---
 
+Printing with resin requires the 3D resin printing certification.
+
 The resins used in 3D printing are toxic and considered harmful from both skin contact and inhalation of fumes. Care must be taken to limit one's exposure to resin and contain it and its fumes inside of the resin tent. The UV lights used to cure prints can be damaging to your eyes if used improperly.
 
 The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## General rules
 
-- Printing with resin requires the 3D resin printing certification.
-- **The resin tent door must be zipped closed** unless you're entering or leaving the tent.
+- **Keep the resin tent door zipped closed** except to enter or leave the tent.
 
 ## While inside the tent:
 

@@ -7,27 +7,28 @@ discord_channel_url: https://discord.com/channels/775417143029661748/77729929476
 stewards: "@steward (3d filament)"
 ---
 
+Printing with filament requires the 3D filament printing certification.
+
 3D printing with extruded filament is generally safe but care should be taken to ensure your print succeeds and the printers and filament remains in good condition for the next person.
 
 The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## General rules
 
-- Printing with filament requires the 3D filament printing certification.
-- **Ensure the first two layers adhere properly** before leaving the makerspace.
+- **Ensure the first two layers adhere** before leaving the makerspace.
 - Only print with **PLA or PETG**.
-  - Printing with TPU requires steward approval.
-  - You can use your own PLA or PETG filament, as long as it has **no additives** (e.g. carbon fiber, wood fill, glow in the dark, etc). Be aware that if you do not pick up your print in a timely fashion, your filament may be used or misplaced on accident.
+  - TPU printing requires steward approval.
+  - You can use your own PLA or PETG filament, as long as it has **no additives** (for example, carbon fiber, wood fill, glow in the dark, etc). Be aware that if you don't pick up your print in a timely fashion, your filament may be used or misplaced on accident.
 - The multi-material unit (MMU) printers requires special training.
 - You can use the filament dryer, if needed.
 
 ## FAQ
 
-- Print beds should be thoroughly cleaned with isopropyl alcohol and wipes before and after each use. _A dirty print bed is the most common cause of print failure._
+- Print beds should be well cleaned with isopropyl alcohol and wipes before and after each use. _A dirty print bed is the most common cause of print failure._
+  - If your print is having trouble adhering, try cleaning the bed with mild detergent (for example, dish soap) in the sink and completely dry before replacing.
 - Finished prints left on printers can be removed and placed in the Finished Print Bin on the window shelf. If you want your print not to be taken because you are in or near the space, please place a note on it.
-- Currently, we do not reclaim or recycle filament scraps or remnants (the last bit of a spool). If you find a tangled or unspooled filament roll, do not use it; place it in a bag, tuck it away in a drawer, and notify <span class="stewards-handle">{{ page.stewards }}</span> on Discord.
-- Filament rolls that are not being used on a printer must be returned to the filament shelves in a plastic bag with a desiccant pack.
-  - If your print is having trouble adhering, try cleaning the bed with mild detergent (e.g. dish soap) in the sink and dry thoroughly before replacing.
+- Currently, we don't reclaim or recycle filament scraps or remnants (the last bit of a spool). If you find a tangled or unspooled filament roll, don't use it; place it in a bag, tuck it away in a drawer, and notify <span class="stewards-handle">{{ page.stewards }}</span> on Discord.
+- Filament rolls that aren't being used on a printer must be returned to the filament shelves in a plastic bag with a desiccant pack.
 
 ## Before leaving
 

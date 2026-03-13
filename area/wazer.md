@@ -13,14 +13,14 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## Allowed materials
 
-If you don’t know the material or have an MSDS/safety sheet or manufacturer statement for a material, treat it as “no‑go” until verified.
+If you don’t know the material or have a material safety data sheet (SDS) or manufacturer statement for a material, treat it as “no‑go” until verified.
 
-- **Metals** - Aluminium 6061, Aluminium 7075, Brass 260, Copper 110, Stainless Steel 304, Stainless Steel 316, Stainless Steel 440C, Steel 01, Steel 1008, Steel 1018, Steel 4130, Titanium - Grade 5
+- **Metals** - Aluminum 6061, Aluminum 7075, Brass 260, Copper 110, Stainless Steel 304, Stainless Steel 316, Stainless Steel 440C, Steel 01, Steel 1008, Steel 1018, Steel 4130, Titanium - Grade 5
 - **Plastics & Rubbers** - Acrylic, EPDM, HDPE, Neoprene 50A, Polycarbonate, Polyethylene Foam 4lb, Polyurethane 60A, Silicone 50A
 - **Ceramic & Stone** - Borosilicate Glass, Soda Lime Glass, Graphite, Marble, Ceramic Tile
 - **Other** - Carbon Fiber, Garolite G-10/FR4
 
-## Basic Troubleshooting
+## Basic troubleshooting
 
 ### What to do if Wazer isn't cutting
 
@@ -29,13 +29,13 @@ If the nozzle on the Wazer gets clogged, you'll get an interrupted cut line. Whe
 - Pull out the abrasives tube to see if the water has infiltrated it, and if it has, try to clear out the clog and allow the hose to dry.
 - You can also spray out the nozzle before restarting.
 
-### Error Message: "Check Drain Filters And Dump Hose When Completed Press OK"
+### Error message: "Check Drain Filters And Dump Hose When Completed Press OK"
 
-This relatively common error means that the drain filters are clogged in the back of the wazer.
+This error means that the drain filters in the back of the Wazer are clogged.
 
 To clear the drain filters:
 
-1. Remove the cover in the back of the wazer.
+1. Remove the cover in the back of the Wazer.
 1. _GENTLY_ wipe the filters with a paper towel.
     - Don't worry about getting all of the grime off, just clearing them out tends to get things moving again.
 1. Message <span class="stewards-handle">{{ page.stewards }}</span> on Discord for us to perform a more thorough cleaning.
