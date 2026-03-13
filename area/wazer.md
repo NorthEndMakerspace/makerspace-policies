@@ -20,12 +20,27 @@ If you don’t know the material or have an MSDS/safety sheet or manufacturer st
 - **Ceramic & Stone** - Borosilicate Glass, Soda Lime Glass, Graphite, Marble, Ceramic Tile
 - **Other** - Carbon Fiber, Garolite G-10/FR4
 
-## What to do if Wazer isn't cutting
+## Basic Troubleshooting
 
-If the nozzle on the Wazer gets clogged. You'll get an interrupted cut line. When that happens:
+### What to do if Wazer isn't cutting
+
+If the nozzle on the Wazer gets clogged, you'll get an interrupted cut line. When that happens:
 
 - Pull out the abrasives tube to see if the water has infiltrated it, and if it has, try to clear out the clog and allow the hose to dry.
 - You can also spray out the nozzle before restarting.
+
+### Error Message: "Check Drain Filters And Dump Hose When Completed Press OK"
+
+This relatively common error means that the drain filters are clogged in the back of the wazer.
+
+To clear the drain filters:
+
+1. Remove the cover in the back of the wazer.
+1. _GENTLY_ wipe the filters with a paper towel.
+    - Don't worry about getting all of the grime off, just clearing them out tends to get things moving again.
+1. Message <span class="stewards-handle">{{ page.stewards }}</span> on Discord for us to perform a more thorough cleaning.
+
+If in doubt, just message the stewards and we can help out. You _can_ just restart the job, but it will run for shorter and shorter periods of time with this error until the drain filters are cleaned.
 
 ## Before leaving:
 
