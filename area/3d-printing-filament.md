@@ -21,6 +21,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
   - You can use your own PLA or PETG filament, as long as it has **no additives** (for example, carbon fiber, wood fill, glow in the dark, etc). Be aware that if you don't pick up your print in a timely fashion, your filament may be used or misplaced on accident.
 - The multi-material unit (MMU) printers requires special training.
 - You can use the filament dryer, if needed.
+- PLA waste (stringy bits, cleaned supports, failed prints, etc.) goes in [the blue bin](https://www.seattle.gov/utilities/your-services/collection-and-disposal/where-does-it-go#/item/3d-printed-materials-and-objects) to the left of the printers marked for PLA waste only.
 
 ## FAQ
 
