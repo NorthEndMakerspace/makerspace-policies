@@ -15,19 +15,19 @@ Key holders must be 18 or older. Guardians must always chaperone minors. Househo
 
 The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it's bypassed, record your time using the provided form:
 
-[Log your tool time](https://docs.google.com/forms/d/e/1FAIpQLScYAjpR1PtrgCwTFzeEzlRUibw8yqn0aM1zNIIzgTkiSsiPvQ/viewform)
+[Log your tool time](https://nems.link/tooltime)
 
-Tracking usage helps us schedule maintenance. Learn more about tool time [here](https://nemakers.notion.site/Timed-Tool-Info-Status-1c3f8d7fdd8f4eec998d1ed3bd7d673d?pvs=143).
+Tracking usage helps us schedule maintenance and appropriately set hourly tool costs. Learn more about tool time [here](https://nemakers.notion.site/Timed-Tool-Info-Status-1c3f8d7fdd8f4eec998d1ed3bd7d673d?pvs=143).
 
 ## Pets
 
-For safety reasons, only service animals are permitted in the makerspace. Areas such as the woodshop have elevated noise levels and limited space, which can pose challenges and risks for both members and service animals. If a member with a service animal needs to access the woodshop and is concerned about these conditions, the facilities team is available to help arrange a safe and accommodating time for use. Ensuring a secure and accessible environment is our priority.
+Only service animals are permitted in the makerspace. Areas such as the woodshop have elevated noise levels and limited space, which can pose challenges and risks for both members and service animals. If a member with a service animal needs to access the woodshop and is concerned about these conditions, the facilities team is available to help arrange a safe and accommodating time for use. Ensuring a secure and accessible environment is our priority.
 
 ## Member storage
 
 - Don't leave your tools, consumables, etc. in the common areas of the makerspace.
-- There exists a limited number of storage cubbies for members to store belongings.
-- There exists a limited number of project shelves and tall storage cubbies available for short-term use.
+- There exist a limited number of storage cubbies for members to store belongings.
+- There exist a limited number of project shelves and tall storage cubbies available for short-term use.
 
 For more information, see: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143). Don't store your projects in common spaces without steward approval.
 
@@ -55,7 +55,7 @@ Voting rights are on specific board decisions ([per our bylaws](https://nems.lin
 
 ## Contribute
 
-We're 100% volunteer-run. All members are part of the North End Makers community and expected to take part in the upkeep of the space and community.
+We're 100% volunteer-run. All members are part of the North End Makers community and expected to take part in the upkeep of the space and community. Leave it better than you found it.
 
 ## Space-specific Policies
 
