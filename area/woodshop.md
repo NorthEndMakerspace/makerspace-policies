@@ -17,23 +17,24 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 1. **The woodshop and its tools require certification to use**. Woodshop training is offered on a tiered, regular basis to the best of the volunteer stewards’ ability.
     - You must be certified to be in the woodshop when _any_ tools are running.
-2. **Empty shop vacuum/dust collection bags** into [the building trash room](https://nemakers.notion.site/Handy-Guide-to-Taking-Out-the-Trash-d09958dce35f4007af50ac7bb3cbb4d4?pvs=143) before beginning work, if they're more than half filled.
+1. **Empty shop vacuum/dust collection bags** into [the building trash room](https://nemakers.notion.site/Handy-Guide-to-Taking-Out-the-Trash-d09958dce35f4007af50ac7bb3cbb4d4?pvs=143) before beginning work, if they're more than half filled.
 
 ## While using the woodshop
 
 1. **Keep all doors closed** when any tools are in use. This mitigates noise and dirt propagation outside of the woodshop.
-2. **Always use the Dust Right when using the shop vacuum**. Use the hose attached to the Dust Right (the blue cyclone separator on casters) instead of directly using the shop vacuum. This helps avoid motor burn-out.
-3. **Empty shop vacuum/dust collection bags** into [the building trash room](https://nemakers.notion.site/Handy-Guide-to-Taking-Out-the-Trash-d09958dce35f4007af50ac7bb3cbb4d4?pvs=143), when they become more than half filled. Do this before continuing use.
+1. **Always use the Dust Right when using the shop vacuum**. Use the hose attached to the Dust Right (the blue cyclone separator on casters) instead of directly using the shop vacuum. This helps avoid motor burn-out.
+1. **Empty shop vacuum/dust collection bags** into [the building trash room](https://nemakers.notion.site/Handy-Guide-to-Taking-Out-the-Trash-d09958dce35f4007af50ac7bb3cbb4d4?pvs=143), when they become more than half filled. Do this before continuing use.
 
 ## Before leaving
 
+1. **Badge out of any tools** that you used.
+1. **Return tools to where they were found**, including eye protection, shop vac, and chairs/stools.
+1. **Reset tools to their storage states**, including the miter saw, table saw, etc., as outlined during the tool certification.
+1. **Label any project left in the space** with your name, today’s date, and contact info (phone number and/or Discord handle). See: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143)
+1. **Clear all work surfaces** of trash, sawdust, tools, and projects. Sawdust from your work can end up outside your immediate working area.
+1. **Sweep and/or vacuum the entire floor and the carpet outside the shop**, removing all sawdust and debris.
+1. **Close and lock all windows**, if you are the last one out. Note that someone before you may have opened them.
 1. **Leave the air filter units on** with a timer for at least an hour.
-2. **Return tools to where they were found**, including eye protection, shop vac, and chairs/stools.
-3. **Reset tools to their storage states**, including the miter saw, table saw, etc., as outlined during the tool certification.
-4. **Label any project left in the space** with your name, today’s date, and contact info (phone number and/or Discord handle). See: [How do I store things at NEM?](https://nemakers.notion.site/How-do-I-store-things-at-NEM-2dff0d9602108087a034d1fdd6313255?pvs=143)
-5. **Clear all work surfaces** of trash, sawdust, tools, and projects. Sawdust from your work can end up outside your immediate working area.
-6. **Sweep and/or vacuum the entire floor and the carpet outside the shop**, removing all sawdust and debris.
-7. **Close and lock all windows**, if you are the last one out. Note that someone before you may have opened them.
 
 ## Safety
 
