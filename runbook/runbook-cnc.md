@@ -6,6 +6,7 @@ layout: main
 
 ## Before cutting
 
+1. Wear appropriate eye protection while the CNC is on.
 1. Press the “Stop” button on the spindle paddle switch, even if it appears off.
 1. Check that there is nothing on the CNC or gantry rails that could interfere with the motion of the CNC gantry or spindle (for example, snagged wires, material in the way, etc).
 1. **Badge in test the spindle works before setting up to check your certification is valid.**
@@ -31,6 +32,7 @@ layout: main
 ## While cutting
 
 1. **Always be within arm’s reach of the E-stop buttons.**
+1. Wear appropriate ear protection while cutting.
 1. If anything goes wrong **press the E-stop for both the machine and the spindle**. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
 1. Turn off the spindle and **badge out** when your job completes.
 
