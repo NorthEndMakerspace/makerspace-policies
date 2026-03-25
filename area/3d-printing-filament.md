@@ -18,7 +18,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 - **Ensure the first two layers adhere** before leaving the makerspace.
 - Only print with **PLA or PETG**.
   - TPU printing requires steward approval.
-  - ABS printing **is forbidden**.
+  - Printing other filaments, such as ABS or ASA, **is prohibited**.
   - You can use your own PLA or PETG filament, as long as it has **no additives** (for example, carbon fiber, wood fill, glow in the dark, etc). Be aware that if you don't pick up your print in a timely fashion, your filament may be used or misplaced on accident.
 - The multi-material unit (MMU) printers requires special training.
 - You can use the filament dryer, if needed.
