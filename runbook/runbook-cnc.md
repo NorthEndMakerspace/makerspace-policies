@@ -30,8 +30,8 @@ layout: main
 
 ## While cutting
 
-1. **Always be within arm’s reach of the E-Stop buttons.**
-1. If anything goes wrong **press the E-Stop for both the machine and the spindle**. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
+1. **Always be within arm’s reach of the E-stop buttons.**
+1. If anything goes wrong **press the E-stop for both the machine and the spindle**. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
 1. Turn off the spindle and **badge out** when your job completes.
 
 ## Before leaving

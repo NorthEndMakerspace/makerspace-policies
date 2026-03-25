@@ -42,7 +42,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 - You must be 18 or older to use the lasers.
 - Children must be supervised and not allowed to peek into the laser at edges while the laser is running.
-- **Always be within arm’s reach of the E-Stop buttons while the laser is running.**
+- **Always be within arm’s reach of the E-stop buttons while the laser is running.**
 
 ### In case of fire
 

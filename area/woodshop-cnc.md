@@ -15,7 +15,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## Safety
 
-- **Always be within arm’s reach of the E-Stop buttons when the CNC is on.**
+- **Always be within arm’s reach of the E-stop buttons when the CNC is on.**
 - Follow the <a href="{% link area/woodshop.md %}#safety">woodshop safety guidelines</a>.
 - Always wear appropriate eye protection while operating the CNC and ear protection while cutting.
 - Keep hands and feet clear of the machine, especially the cutting area, gantry, and rails.
