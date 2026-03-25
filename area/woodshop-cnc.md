@@ -17,13 +17,13 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 1. Press the “Stop” button on the spindle paddle switch, even if it appears off.
 1. Check that there is nothing on the CNC or gantry rails that could interfere with the motion of the CNC gantry or spindle (for example, snagged wires, material in the way, etc).
-1. **Badge in and briefly test the spindle works before setting up to check your certification is valid.**
+1. **Badge in test the spindle works before setting up to check your certification is valid.**
 1. Press the "Start" button on the CNC paddle switch.
 1. Log in to the laptop and launch [gSender](https://resources.sienci.com/view/gs-using-gsender/).
 1. Home the machine.
    - If the gantry or spindle was moved while the machine was off, you must re-home the machine.
    - If you crash the spindle, you must re-home the machine (you can re-home just Z if crashed only in Z).
-1. Place your stock on the spoil board and clamp it down. It shouldn't move if you try to push or pull it with your body weight.
+1. Place your stock on the spoil board and clamp or otherwise firmly attach it down. It shouldn't move if you try to push or pull it with your body weight.
 1. Insert and secure the correct bit for your cut.
    - With the Musclechuck, this means tightening the bolt with the allen key until it's just barely snug, then tighten another quarter turn. Note that overtightening risks damage to the chuck.
 1. Zero the machine relative to your stock based on the origin you specified during tool path generation. Be mindful of whether your Z origin is at the top or bottom of your stock.
@@ -41,7 +41,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 1. **Always be within arm’s reach of the E-Stop buttons.**
 1. If anything goes wrong **press the E-Stop for both the machine and the spindle**. This includes: the work piece becomes no longer secured, the end mill breaks, the gantry moves in an unexpected way, etc.
-1. Turn off the spindle when your job is complete.
+1. Turn off the spindle and **badge out** when your job completes.
 
 ## Before leaving
 
@@ -57,7 +57,8 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 ## Safety
 
-- Follow the [woodshop safety guidelines]({% link area/woodshop.md %}).
+- Follow the <a href="{% link area/woodshop.md %}#safety">woodshop safety guidelines</a>.
+- Always wear appropriate eye protection while operating the CNC and ear protection while cutting.
 - Keep hands and feet clear of the machine, especially the cutting area, gantry, and rails.
 - Don't lean on or over the machine bed or gantry rails.
 

@@ -50,6 +50,8 @@ Our address is:
 > 12317 15th Ave NE #103  
 > Seattle, WA 98125
 
+The address is also written on the safety information posters in every room.
+
 Afterward, report the incident with a message to <span class="stewards-handle">@facilities</span>.
 
 ## Before leaving

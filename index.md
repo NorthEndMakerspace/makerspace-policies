@@ -13,9 +13,9 @@ Key holders must be 18 or older. Guardians must always chaperone minors. Househo
 
 ## Tool time
 
-The Badger automatically tracks tool time on most equipment except the Wazer. If you use the Wazer or encounter a malfunctioning Badger, please notify the IT team on Discord (<span class="stewards-handle">@it_team</span>). Usually, Badgers reconnect on their own, but if they don’t and it's bypassed, record your time using the provided form:
+The Badger automatically tracks tool time on most equipment.
 
-[Log your tool time](https://docs.google.com/forms/d/e/1FAIpQLScYAjpR1PtrgCwTFzeEzlRUibw8yqn0aM1zNIIzgTkiSsiPvQ/viewform)
+If you are using a tool that doesn't have a Badger, or a Badger isn't working, please manually log your tool time using [this form (nems.link/tooltime)](nems.link/tooltime). If you encounter a malfunctioning Badger, please notify <span class="stewards-handle">@it_team</span> on Discord.
 
 Tracking usage helps us schedule maintenance. Learn more about tool time [here](https://nemakers.notion.site/Timed-Tool-Info-Status-1c3f8d7fdd8f4eec998d1ed3bd7d673d?pvs=143).
 
