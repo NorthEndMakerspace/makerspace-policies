@@ -9,6 +9,22 @@ minima:
   skin: auto
   hide_site_feed_link: true
   social_links:
+    - url: https://nems.link/discord
+      title: Discord Server
+      icon: discord
+    - url: https://nems.link/wiki
+      title: NEM Wiki
+      icon: notion
     - url: https://github.com/NorthEndMakerspace/makerspace-policies
       title: NorthEndMakerspace/makerspace-policies @ GitHub
       icon: github
+  nav_pages:
+    - area/all-areas.md
+    - area/woodshop.md
+    - area/woodshop-cnc.md
+    - area/3d-printing-filament.md
+    - area/3d-printing-resin.md
+    - area/electronics.md
+    - area/fiber-arts.md
+    - area/wazer.md
+    - area/laser.md
