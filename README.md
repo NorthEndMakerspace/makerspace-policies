@@ -1,3 +1,5 @@
+# The North End Makerspace Policies were approved during the 2026-03-21 board meeting. [The public version is available here](https://docs.google.com/document/d/1HptOQzgVZ-yu8OgSVEGDbhEkyyjTt8Uxj9AuW-ICCJk/edit?usp=sharing).
+
 # `makerspace-policies`
 
 This repo contains a Jekyll site meant to be hosted on GitHub pages.
