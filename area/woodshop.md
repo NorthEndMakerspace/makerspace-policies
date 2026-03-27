@@ -48,7 +48,7 @@ The rules in [All areas]({% link area/all-areas.md %}) apply.
 
 - **Always use a riving knife and keep the blade guard installed**. For partial, angled, or cross cuts it's acceptable to remove the guard.
 - **Use a push block** when making cuts that leave less than the width of your hand between the blade and the fence.
-- For rip cut closer than 1 inch to the blade, **use a sacrificial fence**.
+- For rip cuts closer than 1 inch to the blade, **use a sacrificial fence**.
 - **Don't overtighten to blade**. When changing the blade, tighten the arbor nut firmly, hand-tight is enough. The rotation of the blade during operation will keep the nut secure. Overtightening can damage the blade, arbor, or tool and may make the blade difficult to remove later.
 - If you install a specialty blade for a specific cut, please reinstall the general-purpose blade when done.
 

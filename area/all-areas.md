@@ -7,7 +7,7 @@ stewards: "@steward (all areas)"
 
 These rules apply to all areas, including the common areas. Each specific area may have extra rules for safety and cleanliness.
 
-## General rules:
+## General rules
 
 - **Materials/consumables must be used at the makerspace** and may only leave the makerspace when used in a project. This includes scraps, screws, thread, 3D filament, electronic components, sandpaper, tape, solder, glue, etc.
 - **Tools must stay in the makerspace**.
